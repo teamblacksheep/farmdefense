@@ -685,3 +685,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.17-09.36.54:124][534]LogEditorActor: Deleted 1 Actors (0.044 secs)
 [2019.06.17-09.37.04:139][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.06.17-09.37.17:005][935]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.17-09.38.33:673][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.06.17-09.38.33:926][340]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TopDownExampleMapB0E051C040A75E55A6DB41BF3291318C.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.06.17-09.38.33:950][340]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TopDownExampleMap_BuiltDataFAD24E48492C1E1D4E505490E97BE8C9.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
