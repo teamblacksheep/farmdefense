@@ -917,3 +917,54 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.19-10.45.16:631][530]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2019.06.19-10.47.06:619][491]BlueprintLog: New page: Compile GameManager
 [2019.06.19-10.47.06:908][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.06.19-10.48.22:278][739]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.19-10.48.25:742][ 69]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.19-10.48.28:602][345]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.19-10.48.32:633][713]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2019.06.19-10.48.32:993][713]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TopDownExampleMap8A1B82A542ECCBC178ABE58DF61F45AC.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.06.19-10.48.33:035][713]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TopDownExampleMap_BuiltData9C1DC95548A25001CF334A9C826DA01C.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.06.19-10.48.33:552][750]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.19-10.48.33:591][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.19-10.48.33:591][750]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.19-10.48.33:592][750]LogPlayLevel: [PlayLevel] Compiling DGameMode before play...
+[2019.06.19-10.48.33:662][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.06.19-10.48.33:662][750]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2019.06.19-10.48.33:662][750]PIE: New page: PIE session: TopDownExampleMap (20 Jun 2019 5:48:33 am)
+[2019.06.19-10.48.33:662][750]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.19-10.48.33:682][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019710s)
+[2019.06.19-10.48.33:683][750]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.19-10.48.33:683][750]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2019.06.19-10.48.33:683][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021572s)
+[2019.06.19-10.48.33:753][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.06.19-10.48.33:759][750]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.19-10.48.33:783][750]LogInit: FAudioDevice initialized.
+[2019.06.19-10.48.33:815][750]LogLoad: Game class is 'DGameMode_C'
+[2019.06.19-10.48.33:818][750]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.06.19-20.18.33
+[2019.06.19-10.48.33:819][750]LogWorld: Bringing up level for play took: 0.002388
+[2019.06.19-10.48.33:833][750]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.189
+[2019.06.19-10.48.33:833][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.19-10.48.39:558][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-10.49.00:885][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-10.49.00:981][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.19-10.49.00:981][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-10.49.01:016][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.19-10.49.01:016][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.19-10.49.01:096][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-10.49.01:102][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.06.19-10.49.01:119][454]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.06.19-10.49.02:958][608]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/Asset_BP/DGameMode.DGameMode
+[2019.06.19-10.50.16:231][960]LogEditorTransaction: Undo Change Variable Category
+[2019.06.19-10.51.26:278][216]LogEditorTransaction: Undo Move Node
+[2019.06.19-10.51.26:928][281]LogEditorTransaction: Undo Create Pin Link
+[2019.06.19-10.51.28:139][422]LogEditorTransaction: Undo Add Node
+[2019.06.19-10.51.28:823][501]LogEditorTransaction: Undo Move Node
+[2019.06.19-10.51.29:405][568]LogEditorTransaction: Undo Move Node
+[2019.06.19-10.51.29:886][623]LogEditorTransaction: Undo Create Pin Link
+[2019.06.19-10.51.30:352][676]LogEditorTransaction: Undo Create Pin Link
+[2019.06.19-10.51.30:828][730]LogEditorTransaction: Undo Add Node
+[2019.06.19-10.51.31:210][773]LogEditorTransaction: Undo Add Node
+[2019.06.19-10.51.34:914][211]BlueprintLog: New page: Compile GameManager
+[2019.06.19-10.51.35:250][211]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2019.06.19-10.54.08:961][215]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.06.19-10.54.09:253][215]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TopDownExampleMap3D03348B4CD1C4884AE11EBCF462188B.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.06.19-10.54.09:287][215]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TopDownExampleMap_BuiltData1689FAD84CB73F658D015F9E24CC09D8.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
