@@ -715,3 +715,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.24-08.31.48:420][ 41]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Runner_Data_Table_Auto15936BB8C491AB2D1C1A31998B99D53D5.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/Wave/Runner_Data_Table_Auto1.uasset'
 [2019.06.24-08.31.48:422][ 41]LogFileHelpers: Auto-saving content packages took 0.018
 [2019.06.24-08.37.30:175][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-08.47.13:952][885]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/__MyContent/Blueprints/Asset_BP/My_Game_state.My_Game_state
+[2019.06.24-08.47.54:197][674]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/__MyContent/Blueprints/UI/Main_Overlay_Widget.Main_Overlay_Widget
+[2019.06.24-08.47.54:929][674]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.06.24-08.48.34:237][101]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/__MyContent/Blueprints/UI/Widget_GameOver.Widget_GameOver
+[2019.06.24-08.53.32:891][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-08.53.56:353][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-08.54.12:397][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP.Base_Turret_BP
+[2019.06.24-08.57.52:671][620]LogRenderer: Reallocating scene render targets to support 1120x692 Format 10 NumSamples 1 (Frame:1).
+[2019.06.24-08.58.11:165][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-08.58.28:404][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2019.06.24-08.58.45:063][439]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.06.24-08.59.10:505][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.06.24-08.59.10:505][127]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.121
+[2019.06.24-08.59.10:507][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Fire] ([1] browsable assets)...
+[2019.06.24-08.59.10:550][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Fire.Tower_Projectile_BP1_Fire]
+[2019.06.24-08.59.10:550][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Fire]
+[2019.06.24-08.59.10:595][127]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Tower_Projectile_BP1_Fire_Auto2B03DB29346D1295006CF21A578C8F5FF.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Fire_Auto2.uasset'
+[2019.06.24-08.59.10:599][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Ice] ([1] browsable assets)...
+[2019.06.24-08.59.10:638][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Ice.Tower_Projectile_BP1_Ice]
+[2019.06.24-08.59.10:638][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Ice]
+[2019.06.24-08.59.10:681][127]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Tower_Projectile_BP1_Ice_Auto2F3C1D84F4FBB273AF1D375BF7AF25269.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP1_Ice_Auto2.uasset'
+[2019.06.24-08.59.10:683][127]LogFileHelpers: Auto-saving content packages took 0.177
