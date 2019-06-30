@@ -1,0 +1,1038 @@
+﻿Log file open, 07/01/19 05:21:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FarmDefense
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.333528
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Crayonkid -epicuserid=e21bf2814ea54dde9759fb788e632bc1 -epiclocale=en-US
+LogInit: Base Directory: D:/Unreal engine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.30-19.51.33:151][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.30-19.51.33:151][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.30-19.51.33:151][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Engine.ini]
+[2019.06.30-19.51.33:151][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.30-19.51.33:151][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Engine.ini]
+[2019.06.30-19.51.33:151][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Engine.ini]
+[2019.06.30-19.51.33:151][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Engine.ini]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.30-19.51.33:152][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.30-19.51.33:153][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Engine.ini]
+[2019.06.30-19.51.33:153][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Engine.ini]
+[2019.06.30-19.51.33:163][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:163][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.30-19.51.33:163][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.30-19.51.33:163][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:163][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.30-19.51.33:163][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:163][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.30-19.51.33:163][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.30-19.51.33:163][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.30-19.51.33:163][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.30-19.51.33:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.30-19.51.33:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.30-19.51.33:166][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.30-19.51.33:167][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.30-19.51.33:167][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.30-19.51.33:167][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.30-19.51.33:187][  0]LogHAL: Display: Platform has ~ 16 GB [17093734400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.30-19.51.33:187][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.30-19.51.33:187][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.30-19.51.33:187][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.30-19.51.33:188][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Scalability.ini]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.30-19.51.33:189][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.30-19.51.33:190][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.30-19.51.33:190][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.30-19.51.33:190][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Config/Windows/Engine.ini]
+[2019.06.30-19.51.33:190][  0]LogInit: Computer: DESKTOP-GGPJM5V
+[2019.06.30-19.51.33:190][  0]LogInit: User: Wai1k
+[2019.06.30-19.51.33:190][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.30-19.51.33:190][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2019.06.30-19.51.33:191][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.30-19.51.33:191][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.30-19.51.33:191][  0]LogMemory: Process Physical Memory: 99.44 MB used, 99.44 MB peak
+[2019.06.30-19.51.33:191][  0]LogMemory: Process Virtual Memory: 88.99 MB used, 88.99 MB peak
+[2019.06.30-19.51.33:191][  0]LogMemory: Physical Memory: 5353.81 MB used,  10948.05 MB free, 16301.86 MB total
+[2019.06.30-19.51.33:191][  0]LogMemory: Virtual Memory: 4644.83 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.30-19.51.33:243][  0]LogInit: Using OS detected language (en-US).
+[2019.06.30-19.51.33:243][  0]LogInit: Using OS detected locale (en-AU).
+[2019.06.30-19.51.33:244][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.30-19.51.33:467][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.30-19.51.33:506][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.30-19.51.33:506][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.30-19.51.33:864][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.30-19.51.33:864][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.30-19.51.33:965][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.06.30-19.51.33:965][  0]LogD3D11RHI:       2007/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.30-19.51.33:979][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.06.30-19.51.33:979][  0]LogD3D11RHI:       128/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.30-19.51.33:982][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.30-19.51.33:982][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.30-19.51.33:982][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.30-19.51.34:031][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.30-19.51.34:031][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.06.30-19.51.34:031][  0]LogWindows: EnumDisplayDevices:
+[2019.06.30-19.51.34:032][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.06.30-19.51.34:032][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.30-19.51.34:033][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.30-19.51.34:033][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2019.06.30-19.51.34:034][  0]LogWindows:    4. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2019.06.30-19.51.34:034][  0]LogWindows:    5. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2019.06.30-19.51.34:034][  0]LogWindows:    6. 'NVIDIA GeForce GTX 960M' (P:0 D:0)
+[2019.06.30-19.51.34:034][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.30-19.51.34:034][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.06.30-19.51.34:034][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2019.06.30-19.51.34:035][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2019.06.30-19.51.34:035][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.06.30-19.51.34:086][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.30-19.51.34:091][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.30-19.51.34:091][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.30-19.51.34:091][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.30-19.51.34:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.30-19.51.34:566][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.30-19.51.34:596][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.30-19.51.34:619][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.30-19.51.34:639][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.30-19.51.34:659][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.30-19.51.34:676][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.30-19.51.34:693][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.30-19.51.34:709][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.30-19.51.34:716][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.30-19.51.34:822][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.30-19.51.34:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.30-19.51.34:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.30-19.51.34:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.30-19.51.34:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.30-19.51.34:823][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.30-19.51.34:826][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.30-19.51.34:890][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.30-19.51.34:890][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.30-19.51.34:926][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.30-19.51.34:926][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.30-19.51.34:942][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.30-19.51.34:957][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.30-19.51.34:974][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.30-19.51.34:997][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.30-19.51.35:078][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.30-19.51.35:078][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.30-19.51.35:078][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.30-19.51.35:091][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.30-19.51.35:169][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Intermediate/Shaders/WorkingDirectory/19188/).
+[2019.06.30-19.51.35:169][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Wai1k/AppData/Local/Temp/UnrealShaderWorkingDir/A2ED241047DE30EE9010759E985FC572/'.
+[2019.06.30-19.51.35:173][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.30-19.51.35:173][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.30-19.51.35:173][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.30-19.51.35:945][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.30-19.51.36:012][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Wai1k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.30-19.51.36:012][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Wai1k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.30-19.51.36:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.30-19.51.36:012][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.30-19.51.36:012][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.30-19.51.36:012][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.30-19.51.36:028][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.30-19.51.36:028][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.30-19.51.36:028][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.30-19.51.36:041][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Wai1k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.30-19.51.36:041][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.30-19.51.36:041][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.30-19.51.36:086][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.30-19.51.36:088][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.30-19.51.36:089][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.30-19.51.36:239][  0]LogAssetRegistry: FAssetRegistry took 0.0475 seconds to start up
+[2019.06.30-19.51.36:768][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.30-19.51.36:953][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.30-19.51.36:953][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.30-19.51.36:953][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.30-19.51.36:953][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.30-19.51.36:953][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.30-19.51.36:969][  0]LogNetVersion: FarmDefense 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 637083860)
+[2019.06.30-19.51.37:571][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047945 seconds
+[2019.06.30-19.51.37:587][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.30-19.51.37:587][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.30-19.51.37:587][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.30-19.51.38:891][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.30-19.51.38:906][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.30-19.51.39:024][  0]SourceControl: Source control is disabled
+[2019.06.30-19.51.39:025][  0]SourceControl: Source control is disabled
+[2019.06.30-19.51.39:027][  0]SourceControl: Source control is disabled
+[2019.06.30-19.51.39:029][  0]SourceControl: Source control is disabled
+[2019.06.30-19.51.39:189][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.30-19.51.39:323][  0]LogOcInput: OculusInput pre-init called
+[2019.06.30-19.51.40:501][  0]LogEngine: Initializing Engine...
+[2019.06.30-19.51.40:502][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.30-19.51.40:504][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.30-19.51.40:805][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.30-19.51.40:821][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.30-19.51.40:852][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-19.51.40:893][  0]LogInit: FAudioDevice initialized.
+[2019.06.30-19.51.40:894][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.30-19.51.40:982][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Wai1k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.30-19.51.41:003][  0]LogInit: Texture streaming: Enabled
+[2019.06.30-19.51.41:028][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.30-19.51.41:057][  0]LogInit: Transaction tracking system initialized
+[2019.06.30-19.51.41:097][  0]BlueprintLog: New page: Editor Load
+[2019.06.30-19.51.41:234][  0]LocalizationService: Localization service is disabled
+[2019.06.30-19.51.41:635][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.30-19.51.41:635][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.30-19.51.41:895][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/' took 0.02s
+[2019.06.30-19.51.41:895][  0]SourceControl: Source control is disabled
+[2019.06.30-19.51.41:895][  0]Cmd: MAP LOAD FILE="C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.30-19.51.41:896][  0]LightingResults: New page: Lighting Build
+[2019.06.30-19.51.41:899][  0]MapCheck: New page: Map Check
+[2019.06.30-19.51.41:899][  0]LightingResults: New page: Lighting Build
+[2019.06.30-19.51.41:931][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.06.30-19.51.42:740][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-19.51.42:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.30-19.51.42:791][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.06.30-19.51.42:791][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.30-19.51.42:792][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2019.06.30-19.51.42:792][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.896
+[2019.06.30-19.51.42:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.51.42:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.51.42:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.51.42:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.51.42:979][  0]LogCollectionManager: Loaded 0 collections in 0.003271 seconds
+[2019.06.30-19.51.43:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Collections/' took 0.01s
+[2019.06.30-19.51.43:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/Developers/Wai1k/Collections/' took 0.00s
+[2019.06.30-19.51.43:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/Collections/' took 0.00s
+[2019.06.30-19.51.43:003][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.30-19.51.43:023][  0]LogContentBrowser: Native class hierarchy populated in 0.0193 seconds. Added 2732 classes and 659 folders.
+[2019.06.30-19.51.43:031][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.30-19.51.43:033][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.30-19.51.43:121][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.30-19.51.43:128][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.06.30-19.51.43:210][  0]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.30-19.51.43:213][  0]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.30-19.51.43:218][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.30-19.51.43:302][  0]LogRenderer: Reallocating scene render targets to support 1120x536 Format 10 NumSamples 1 (Frame:1).
+[2019.06.30-19.51.43:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.30-19.51.43:545][  0]LogLoad: (Engine Initialization) Total time: 13.38 seconds
+[2019.06.30-19.51.43:545][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.30-19.51.43:600][  0]LogAssetRegistry: Asset discovery search completed in 7.3833 seconds
+[2019.06.30-19.51.43:604][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.30-19.51.43:604][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2019.06.30-19.51.43:611][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.30-19.51.43:730][  0]LogRenderer: Reallocating scene render targets to support 1120x552 Format 10 NumSamples 1 (Frame:2).
+[2019.06.30-19.51.43:730][  0]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.30-19.51.48:416][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-19.51.56:487][109]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.30-19.51.56:496][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy
+[2019.06.30-19.51.56:802][109]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.06.30-19.51.57:831][109]LogSlate: Took 0.000757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.30-19.51.57:927][110]LogSlate: Took 0.000593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.30-19.52.13:837][334]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-19.52.14:322][361]LogEditorTransaction: Undo Delete current selection
+[2019.06.30-19.54.22:388][145]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-19.54.22:623][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.06.30-19.54.22:632][145]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_0
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0061
+[2019.06.30-19.54.22:632][145]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_0
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0090
+[2019.06.30-19.54.22:632][145]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_0
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:00A5
+[2019.06.30-19.54.24:115][263]LogSlate: Window 'TestDummy' being destroyed
+[2019.06.30-19.54.49:545][105]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-19.54.49:755][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.06.30-19.54.49:764][105]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_1
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0061
+[2019.06.30-19.54.49:764][105]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_1
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0090
+[2019.06.30-19.54.49:764][105]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_1
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:00A5
+[2019.06.30-19.54.54:986][684]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/__MyContent/Blueprints/UI/EnemyHealth.EnemyHealth
+[2019.06.30-19.54.55:307][684]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.06.30-19.55.31:032][638]LogEditorTransaction: Undo Move Node
+[2019.06.30-19.55.32:111][763]LogEditorTransaction: Undo Add In Parameter
+[2019.06.30-19.55.39:035][586]BlueprintLog: New page: Compile EnemyHealth
+[2019.06.30-19.55.39:330][586]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2019.06.30-19.55.43:365][ 23]LogRenderer: Reallocating scene render targets to support 1120x692 Format 10 NumSamples 1 (Frame:1).
+[2019.06.30-19.56.11:743][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-19.56.11:836][172]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-19.56.12:134][172]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.06.30-19.56.12:144][172]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_2
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0061
+[2019.06.30-19.56.12:144][172]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_2
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0090
+[2019.06.30-19.56.12:144][172]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_2
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:00A5
+[2019.06.30-19.56.12:741][222]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-19.56.12:762][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.56.12:763][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-19.56.12:763][222]PIE: New page: PIE session: TopDownExampleMap (1 Jul 2019 2:56:12 pm)
+[2019.06.30-19.56.12:776][222]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.30-19.56.12:801][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024419s)
+[2019.06.30-19.56.12:802][222]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-19.56.12:802][222]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2019.06.30-19.56.12:802][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026296s)
+[2019.06.30-19.56.12:857][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.06.30-19.56.12:866][222]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-19.56.12:895][222]LogInit: FAudioDevice initialized.
+[2019.06.30-19.56.12:902][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.56.12:948][222]LogLoad: Game class is 'DGameMode_C'
+[2019.06.30-19.56.12:953][222]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.07.01-05.26.12
+[2019.06.30-19.56.12:954][222]LogWorld: Bringing up level for play took: 0.004728
+[2019.06.30-19.56.12:973][222]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.06.30-19.56.12:979][222]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.06.30-19.56.12:979][222]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.06.30-19.56.12:985][222]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.198
+[2019.06.30-19.56.12:986][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.56.13:352][224]LogRenderer: Reallocating scene render targets to support 1272x692 Format 10 NumSamples 1 (Frame:1).
+[2019.06.30-19.56.18:883][765]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.56.19:883][856]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.56.20:884][950]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.56.21:344][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.56.21:344][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.56.21:358][990]LogSlate: Window 'FarmDefense Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-19.56.21:396][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-19.56.21:396][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.56.21:521][990]LogUObjectHash: Compacting FUObjectHashTables data took   9.07ms
+[2019.06.30-19.56.21:592][991]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.06.30-19.56.27:915][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.30-19.56.30:295][956]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-19.56.30:588][956]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.06.30-19.56.30:596][956]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_3
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0061
+[2019.06.30-19.56.30:596][956]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_3
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:0090
+[2019.06.30-19.56.30:596][956]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_3
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:00A5
+[2019.06.30-19.57.30:547][900]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-19.57.30:814][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.06.30-19.57.30:823][900]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_4
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:019C
+[2019.06.30-19.57.30:823][900]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_4
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01CB
+[2019.06.30-19.57.30:823][900]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_4
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01E0
+[2019.06.30-19.57.31:331][946]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-19.57.31:349][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.57.31:349][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-19.57.31:349][946]PIE: New page: PIE session: TopDownExampleMap (1 Jul 2019 2:57:31 pm)
+[2019.06.30-19.57.31:350][946]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.30-19.57.31:368][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017920s)
+[2019.06.30-19.57.31:368][946]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-19.57.31:369][946]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2019.06.30-19.57.31:369][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019311s)
+[2019.06.30-19.57.31:420][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.06.30-19.57.31:428][946]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-19.57.31:452][946]LogInit: FAudioDevice initialized.
+[2019.06.30-19.57.31:460][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.57.31:489][946]LogLoad: Game class is 'DGameMode_C'
+[2019.06.30-19.57.31:493][946]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.07.01-05.27.31
+[2019.06.30-19.57.31:493][946]LogWorld: Bringing up level for play took: 0.002743
+[2019.06.30-19.57.31:513][946]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.275
+[2019.06.30-19.57.31:514][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.57.37:689][547]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.38:701][639]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.39:710][733]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.40:720][825]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.41:722][917]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.42:726][  8]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.43:730][ 98]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.44:735][185]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.45:743][274]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.57.45:805][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.57.45:806][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.57.45:819][279]LogSlate: Window 'FarmDefense Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-19.57.45:863][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-19.57.45:863][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.57.45:923][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.06.30-19.57.45:944][280]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.30-19.57.50:819][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.06.30-19.57.50:865][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Blueprints/AI/TestDummy" FILE="C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/__MyContent/Blueprints/AI/TestDummy.uasset" SILENT=true
+[2019.06.30-19.57.50:922][814]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TestDummy404386A44A8F60D43B62F3A232CAD9DB.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/__MyContent/Blueprints/AI/TestDummy.uasset'
+[2019.06.30-19.57.50:929][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Blueprints/UI/EnemyHealth" FILE="C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/__MyContent/Blueprints/UI/EnemyHealth.uasset" SILENT=true
+[2019.06.30-19.57.50:957][814]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/EnemyHealth466FC64D4F665480E1950E9B7F56CB42.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/__MyContent/Blueprints/UI/EnemyHealth.uasset'
+[2019.06.30-19.58.00:299][897]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/TRuCamera/TDPlayer.TDPlayer
+[2019.06.30-19.58.09:680][933]BlueprintLog: New page: Compile TDPlayer
+[2019.06.30-19.58.09:920][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2019.06.30-19.58.34:051][511]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-19.58.34:344][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.06.30-19.58.34:353][511]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_5
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:019C
+[2019.06.30-19.58.34:353][511]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_5
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01CB
+[2019.06.30-19.58.34:353][511]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_5
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01E0
+[2019.06.30-19.58.35:282][603]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-19.58.35:310][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.58.35:310][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-19.58.35:310][603]PIE: New page: PIE session: TopDownExampleMap (1 Jul 2019 2:58:35 pm)
+[2019.06.30-19.58.35:310][603]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.30-19.58.35:326][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016182s)
+[2019.06.30-19.58.35:327][603]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-19.58.35:328][603]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2019.06.30-19.58.35:328][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017627s)
+[2019.06.30-19.58.35:384][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.06.30-19.58.35:393][603]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-19.58.35:418][603]LogInit: FAudioDevice initialized.
+[2019.06.30-19.58.35:425][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.58.35:458][603]LogLoad: Game class is 'DGameMode_C'
+[2019.06.30-19.58.35:462][603]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.07.01-05.28.35
+[2019.06.30-19.58.35:462][603]LogWorld: Bringing up level for play took: 0.002492
+[2019.06.30-19.58.35:481][603]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.307
+[2019.06.30-19.58.35:482][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.58.41:561][266]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.42:563][377]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.43:567][486]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.44:569][594]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.45:571][702]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.46:578][807]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.47:582][908]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.48:591][  2]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.49:600][101]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.50:610][199]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.51:619][297]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-19.58.51:932][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.58.51:933][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-19.58.51:946][327]LogSlate: Window 'FarmDefense Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-19.58.51:992][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-19.58.51:992][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-19.58.52:052][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.06.30-19.58.52:064][328]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.30-19.59.14:391][413]LogAssetEditorManager: Opening Asset editor for DataTable /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Data_Table.Tower_Data_Table
+[2019.06.30-19.59.14:397][413]LogBlueprintActionDatabase: Requesting refresh due to module change: DataTableEditor (loaded)
+[2019.06.30-19.59.34:768][668]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Struct.Tower_Struct
+[2019.06.30-20.00.19:874][255]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/ProjectileTypes.ProjectileTypes
+[2019.06.30-20.00.30:839][243]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP.Base_Turret_BP
+[2019.06.30-20.00.52:379][538]BlueprintLog: New page: Compile Base_Turret_BP
+[2019.06.30-20.00.52:712][538]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.06.30-20.00.54:729][751]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Base_Turret_BPC9B174DF407C1296A430C281C46A5058.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP.uasset'
+[2019.06.30-20.00.59:124][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   7.18ms
+[2019.06.30-20.01.06:802][ 80]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.30-20.01.20:880][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.06.30-20.01.25:276][206]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.06.30-20.01.38:552][206]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.30-20.01.39:615][264]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP_slow.Tower_Projectile_BP_slow
+[2019.06.30-20.01.51:302][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.06.30-20.01.53:937][457]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.30-20.01.53:952][457]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_1:PersistentLevel.TestDummy_C_0
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:019C
+[2019.06.30-20.01.53:952][457]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_1:PersistentLevel.TestDummy_C_0
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01CB
+[2019.06.30-20.01.53:952][457]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_1:PersistentLevel.TestDummy_C_0
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01E0
+[2019.06.30-20.01.53:952][457]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-20.01.54:090][457]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-20.01.54:547][457]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.30-20.01.54:633][457]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BP_slow.Tower_Projectile_BP_slow
+[2019.06.30-20.01.55:514][457]LogUObjectHash: Compacting FUObjectHashTables data took  12.62ms
+[2019.06.30-20.01.55:822][457]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.06.30-20.01.55:862][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.06.30-20.01.55:895][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.06.30-20.01.58:459][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BPslow.Tower_Projectile_BPslow
+[2019.06.30-20.02.31:384][ 40]BlueprintLog: New page: Compile Tower_Projectile_BPslow
+[2019.06.30-20.02.31:581][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.06.30-20.02.40:793][796]LogSlate: Window 'Tower_Projectile_BPslow' being destroyed
+[2019.06.30-20.02.43:519][983]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP.Base_Turret_BP
+[2019.06.30-20.02.49:734][625]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.30-20.02.57:741][548]BlueprintLog: New page: Compile Base_Turret_BP
+[2019.06.30-20.02.57:939][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.06.30-20.02.58:836][636]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-20.02.58:864][636]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.02.58:864][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-20.02.58:864][636]PIE: New page: PIE session: TopDownExampleMap (1 Jul 2019 3:02:58 pm)
+[2019.06.30-20.02.58:864][636]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.30-20.02.58:881][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016917s)
+[2019.06.30-20.02.58:882][636]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-20.02.58:883][636]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2019.06.30-20.02.58:883][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018408s)
+[2019.06.30-20.02.58:925][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.06.30-20.02.58:933][636]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-20.02.58:959][636]LogInit: FAudioDevice initialized.
+[2019.06.30-20.02.58:966][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-20.02.59:000][636]LogLoad: Game class is 'DGameMode_C'
+[2019.06.30-20.02.59:004][636]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.07.01-05.32.59
+[2019.06.30-20.02.59:004][636]LogWorld: Bringing up level for play took: 0.003184
+[2019.06.30-20.02.59:026][636]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.762
+[2019.06.30-20.02.59:026][636]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.03.04:958][190]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.05:970][282]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.06:975][376]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.07:983][469]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.08:984][559]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.09:993][648]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.10:995][735]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.12:003][820]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.13:005][905]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.14:010][989]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.15:017][ 73]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.16:029][155]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.17:033][237]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.18:046][318]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.19:053][395]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.20:058][475]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.21:074][553]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.22:082][633]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.03.22:384][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.03.22:385][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-20.03.22:398][657]LogSlate: Window 'FarmDefense Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-20.03.22:450][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-20.03.22:450][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.03.22:506][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.06.30-20.03.22:576][658]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.06.30-20.03.38:656][118]LogAssetEditorManager: Opening Asset editor for DataTable /Game/__MyContent/Blueprints/Wave/Runner_Data_Table.Runner_Data_Table
+[2019.06.30-20.03.45:394][906]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Runner_Data_Table51CC4F184353075D7CDE189DDE66CFEA.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/__MyContent/Blueprints/Wave/Runner_Data_Table.uasset'
+[2019.06.30-20.03.53:264][760]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy
+[2019.06.30-20.04.06:961][294]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-20.04.07:215][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.06.30-20.04.07:230][294]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_6
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:019C
+[2019.06.30-20.04.07:230][294]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_6
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01CB
+[2019.06.30-20.04.07:230][294]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_6
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:01E0
+[2019.06.30-20.04.07:759][339]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-20.04.07:778][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.04.07:778][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-20.04.07:778][339]PIE: New page: PIE session: TopDownExampleMap (1 Jul 2019 3:04:07 pm)
+[2019.06.30-20.04.07:778][339]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.30-20.04.07:792][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013798s)
+[2019.06.30-20.04.07:793][339]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-20.04.07:794][339]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2019.06.30-20.04.07:794][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015347s)
+[2019.06.30-20.04.07:842][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.06.30-20.04.07:851][339]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-20.04.07:876][339]LogInit: FAudioDevice initialized.
+[2019.06.30-20.04.07:883][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-20.04.07:916][339]LogLoad: Game class is 'DGameMode_C'
+[2019.06.30-20.04.07:919][339]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.07.01-05.34.07
+[2019.06.30-20.04.07:920][339]LogWorld: Bringing up level for play took: 0.002711
+[2019.06.30-20.04.07:940][339]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.152
+[2019.06.30-20.04.07:940][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.04.13:707][859]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.14:711][948]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.15:715][ 37]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.16:715][118]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.17:727][204]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.18:737][281]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.19:747][364]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.20:758][446]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.21:758][526]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.22:764][604]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.23:776][682]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.24:782][758]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.25:783][834]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.26:791][910]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.27:799][982]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.28:812][ 57]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.29:816][132]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.30:825][206]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.31:835][279]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.32:847][351]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Pig_Skeleton, removing AnimBP from actor.
+[2019.06.30-20.04.49:771][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.04.49:771][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-20.04.49:784][566]LogSlate: Window 'FarmDefense Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-20.04.49:826][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-20.04.49:827][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.04.49:885][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.06.30-20.04.49:898][567]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.30-20.05.43:298][864]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Runner_Data_Table70DABCA043A115F35FFCF7980C793F6C.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Content/__MyContent/Blueprints/Wave/Runner_Data_Table.uasset'
+[2019.06.30-20.05.49:912][585]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.30-20.06.05:401][338]BlueprintLog: New page: Compile Base_Turret_BP
+[2019.06.30-20.06.05:613][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.06.30-20.06.06:342][403]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-20.06.06:378][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.06:378][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-20.06.06:378][403]PIE: New page: PIE session: TopDownExampleMap (1 Jul 2019 3:06:06 pm)
+[2019.06.30-20.06.06:378][403]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.30-20.06.06:394][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016072s)
+[2019.06.30-20.06.06:395][403]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-20.06.06:395][403]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2019.06.30-20.06.06:396][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017695s)
+[2019.06.30-20.06.06:444][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.06.30-20.06.06:452][403]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-20.06.06:478][403]LogInit: FAudioDevice initialized.
+[2019.06.30-20.06.06:487][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-20.06.06:519][403]LogLoad: Game class is 'DGameMode_C'
+[2019.06.30-20.06.06:522][403]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.07.01-05.36.06
+[2019.06.30-20.06.06:522][403]LogWorld: Bringing up level for play took: 0.001875
+[2019.06.30-20.06.06:541][403]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.753
+[2019.06.30-20.06.06:541][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.08:623][579]LogSlate: Window 'FarmDefense Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-20.06.08:630][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.08:669][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-20.06.08:670][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.08:722][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.06.30-20.06.08:790][580]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.06.30-20.06.21:373][880]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/Asset_BP/GameManager.GameManager
+[2019.06.30-20.06.32:077][986]BlueprintLog: New page: Compile GameManager
+[2019.06.30-20.06.32:305][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.06.30-20.06.33:105][ 55]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.30-20.06.33:131][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.33:131][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.30-20.06.33:131][ 55]PIE: New page: PIE session: TopDownExampleMap (1 Jul 2019 3:06:33 pm)
+[2019.06.30-20.06.33:131][ 55]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.06.30-20.06.33:146][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015140s)
+[2019.06.30-20.06.33:147][ 55]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.30-20.06.33:147][ 55]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.06.30-20.06.33:148][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016287s)
+[2019.06.30-20.06.33:203][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.06.30-20.06.33:211][ 55]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.30-20.06.33:236][ 55]LogInit: FAudioDevice initialized.
+[2019.06.30-20.06.33:242][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.30-20.06.33:272][ 55]LogLoad: Game class is 'DGameMode_C'
+[2019.06.30-20.06.33:274][ 55]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.07.01-05.36.33
+[2019.06.30-20.06.33:275][ 55]LogWorld: Bringing up level for play took: 0.002022
+[2019.06.30-20.06.33:296][ 55]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.492
+[2019.06.30-20.06.33:296][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.39:217][551]LogSlate: Window 'FarmDefense Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.30-20.06.39:228][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.39:269][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.30-20.06.39:270][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.06.30-20.06.39:330][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.06.30-20.06.39:389][552]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.06.30-20.09.01:705][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.06.30-20.09.02:000][329]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TopDownExampleMap_Auto1D97958D4422B34BDB55D0CA40321AB40.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2019.06.30-20.09.02:008][329]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.358
+[2019.06.30-20.09.02:008][329]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2019.06.30-20.09.02:012][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP] ([1] browsable assets)...
+[2019.06.30-20.09.02:092][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP.Base_Turret_BP]
+[2019.06.30-20.09.02:092][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP]
+[2019.06.30-20.09.02:238][329]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Base_Turret_BP_Auto122C758A447062D508B50D78BEED8E46F.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Base_Turret_BP_Auto1.uasset'
+[2019.06.30-20.09.02:248][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__MyContent/Blueprints/AI/TestDummy] ([1] browsable assets)...
+[2019.06.30-20.09.02:310][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy]
+[2019.06.30-20.09.02:311][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/AI/TestDummy]
+[2019.06.30-20.09.02:384][329]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TestDummy_Auto1745B46CE4614A53310AD19BF40FDC40D.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/AI/TestDummy_Auto1.uasset'
+[2019.06.30-20.09.02:390][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__MyContent/Blueprints/Asset_BP/GameManager] ([1] browsable assets)...
+[2019.06.30-20.09.02:390][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/Asset_BP/GameManager]
+[2019.06.30-20.09.02:468][329]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/GameManager_Auto1FFB2B4844ABBABA6143CE89A8AB3DC6C.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/Asset_BP/GameManager_Auto1.uasset'
+[2019.06.30-20.09.02:471][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__MyContent/Blueprints/TRuCamera/TDPlayer] ([1] browsable assets)...
+[2019.06.30-20.09.02:471][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/TRuCamera/TDPlayer]
+[2019.06.30-20.09.02:527][329]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/TDPlayer_Auto1F51C4A7A4E919345979CCCA457843603.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/TRuCamera/TDPlayer_Auto1.uasset'
+[2019.06.30-20.09.02:533][329]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BPslow] ([1] browsable assets)...
+[2019.06.30-20.09.02:583][329]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BPslow.Tower_Projectile_BPslow]
+[2019.06.30-20.09.02:583][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BPslow]
+[2019.06.30-20.09.02:657][329]LogSavePackage: Moving 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Tower_Projectile_BPslow_Auto1C47B713442B8E9DE1CC761B3A0BC79D4.tmp' to 'C:/Users/Wai1k/Documents/GitHub/farmdefense/FarmDefense/Saved/Autosaves/Game/__MyContent/Blueprints/Asset_BP/Tower/Tower/Tower_Projectile_BPslow_Auto1.uasset'
+[2019.06.30-20.09.02:660][329]LogFileHelpers: Auto-saving content packages took 0.650
+[2019.06.30-20.10.23:902][573]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.30-20.10.28:706][131]BlueprintLog: New page: Compile TestDummy
+[2019.06.30-20.10.28:961][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.06.30-20.10.28:977][131]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_7
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:00B4
+[2019.06.30-20.10.28:977][131]LogScript: Warning: Accessed None trying to read property CallFunc_Get_Game_Manager_Game_Manager
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_7
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:00E3
+[2019.06.30-20.10.28:977][131]LogScript: Warning: Attempted to assign to None
+	TestDummy_C /Engine/Transient.World_0:PersistentLevel.TestDummy_C_7
+	Function /Game/__MyContent/Blueprints/AI/TestDummy.TestDummy_C:ExecuteUbergraph_TestDummy:00F8
+[2019.06.30-20.10.44:289][835]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/AI/Spawner.Spawner
+[2019.06.30-20.11.24:380][439]LogUObjectArray: Warning: Other object in slot
+[2019.06.30-20.11.24:381][439]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.30-20.11.25:455][439]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.074 s
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: 
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: Stack: 
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabdb6c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabd3e6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabd3f4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabad437f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffab9dd5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffab9d91e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabe645984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabe8315e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabe68d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.30-20.11.25:455][439]LogOutputDevice: Error: [Callstack] 0x00007ffabe66af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffabe660287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb2ad5b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb2ad4ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb2ad5d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb2ad4c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb38a36d41 USER32.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb38a36713 USER32.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb2ad5e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ff7f7235d3e UE4Editor.exe!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ff7f724554c UE4Editor.exe!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ff7f72455ca UE4Editor.exe!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ff7f725316c UE4Editor.exe!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ff7f7255b8e UE4Editor.exe!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb38884034 KERNEL32.DLL!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: [Callstack] 0x00007ffb39373691 ntdll.dll!UnknownFunction []
+[2019.06.30-20.11.25:456][439]LogOutputDevice: Error: 
+[2019.06.30-20.11.25:461][439]LogStats:                SubmitErrorReport -  0.000 s
